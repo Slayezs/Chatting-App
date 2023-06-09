@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.example.chattingapp.R;
 
-public class Login_Screen extends AppCompatActivity {
+public class Get_Started extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login_screen);
+        setContentView(R.layout.get_started);
     }
 }

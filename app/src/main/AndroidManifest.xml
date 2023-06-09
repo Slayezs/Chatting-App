@@ -20,7 +20,7 @@
         <activity
             android:name=".signup_login.Login_page"
 
-            android:name=".Login_Signup.Login_Screen"
+            android:name=".Login_Signup.Get_Started"
             android:exported="false" />
         <activity
             android:name=".Startups.Splash_screen"
